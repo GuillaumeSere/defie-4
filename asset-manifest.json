@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/defie-4/static/css/main.ed582af7.css",
+    "main.js": "/defie-4/static/js/main.682aa616.js",
+    "static/media/avatar.jpg": "/defie-4/static/media/avatar.973be51eef36874a91a0.jpg",
+    "index.html": "/defie-4/index.html",
+    "main.ed582af7.css.map": "/defie-4/static/css/main.ed582af7.css.map",
+    "main.682aa616.js.map": "/defie-4/static/js/main.682aa616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed582af7.css",
+    "static/js/main.682aa616.js"
+  ]
+}
