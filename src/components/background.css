@@ -1,0 +1,24 @@
+.container{
+    position: relative;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.bg-left{
+    position: absolute;
+    left: 0;
+    margin-left: -5rem;
+    width: 500px;
+    height: 700px;
+    border-radius: 0 0 250px 240px;
+    background: linear-gradient(360deg, #933bff 0%, #ce41ff 100%);
+}
+.bg-right{
+    position: absolute;
+    right: 0;
+    margin-right: -11rem;
+    margin-top: 7.5rem;
+    width: 500px;
+    height: 849px;
+    background: hsl(270, 20%, 96%);
+    border-radius: 250px 240px 0 0;
+}

@@ -1,0 +1,82 @@
+.card-phone{
+    position: absolute;
+    width: 254px;
+    height: 508px;
+    background: hsl(0, 0%, 100%);
+    margin-left: 22.5rem;
+    margin-top: 9.2rem;
+    border-radius: 30px;
+    padding: .6rem;
+    box-shadow: 14px 10px 80px -17px #878787;
+}
+.card-ecran{
+    margin-top: .2rem;
+    width: 231px;
+    height: 480px;
+    border-radius:25px 25px 20px 20px;
+    background: hsl(270, 20%, 96%);
+}
+.card-head{
+    width: 100%;
+    height: 65px;
+    border-radius: 20px 20px 5px 5px;
+    background: linear-gradient(90deg, #933bff 0%, #ce41ff 100%);
+}
+.banner{
+    margin: 0 auto;
+    width: 57%;
+    height: 18px;
+    border-radius: 0 0 15px 15px;
+    background: white;
+}
+.chevron{
+    color: white;
+    margin-top: 1rem;
+    margin-left: .5rem;
+}
+.card-user{
+    display: flex;
+}
+.card-user img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 1px solid white;
+    margin-top: -1.5rem;
+    margin-left: 1.5rem;
+}
+.card-user h5{
+    position: absolute;
+    color: hsl(0, 0%, 100%);
+    font-size: 11px;
+    opacity: .8;
+    margin-top: -1.5rem;
+    margin-left: 3.5rem;
+    font-weight: 500;
+}
+.card-user p{
+    position: absolute;
+    color: hsl(276, 100%, 81%);
+    font-size: 8px;
+    margin-left: 3.5rem;
+    margin-top: -.5rem;
+}
+.kebab{
+    position: absolute;
+    color: hsl(0, 0%, 100%);
+    right: 0;
+    margin-right: 1.5rem;
+    margin-top: -1.2rem;
+}
+.image{
+    display: flex;
+    justify-content: flex-end;
+}
+.image img{
+    margin: .5rem;
+    margin-top: 1rem;
+    margin-right: .2rem;
+    width: 40px;
+    height: 40px;
+    border-radius: 10px;
+}
